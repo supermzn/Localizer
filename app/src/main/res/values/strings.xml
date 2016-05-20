@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Localizer</string>
+    <string name="action_settings">action_settings</string>
+    <string name="Localize">Localize place</string>
+    <string name="Toolbar_back">Back</string>
+    <string name="place">Place:</string>
+    <string name="community">Community:</string>
+    <string name="county">County:</string>
+    <string name="province">Province:</string>
+    <string name="country">Country:</string>
+    <string name="add_city">Add City</string>
+</resources>
